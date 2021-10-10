@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{B5508EDA-FEC4-424C-84D1-AA02639FCEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{9B11FD8C-F409-461B-99B0-00EFFBCB78C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{E4DA506F-A8EB-43F7-A7B2-38DD75EEA24D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5508EDA-FEC4-424C-84D1-AA02639FCEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5508EDA-FEC4-424C-84D1-AA02639FCEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5508EDA-FEC4-424C-84D1-AA02639FCEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5508EDA-FEC4-424C-84D1-AA02639FCEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B11FD8C-F409-461B-99B0-00EFFBCB78C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B11FD8C-F409-461B-99B0-00EFFBCB78C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B11FD8C-F409-461B-99B0-00EFFBCB78C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B11FD8C-F409-461B-99B0-00EFFBCB78C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4DA506F-A8EB-43F7-A7B2-38DD75EEA24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DA506F-A8EB-43F7-A7B2-38DD75EEA24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DA506F-A8EB-43F7-A7B2-38DD75EEA24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DA506F-A8EB-43F7-A7B2-38DD75EEA24D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04EEF361-7FD2-43C5-A29B-AA5C36BA1762}
+	EndGlobalSection
+EndGlobal
